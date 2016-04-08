@@ -1,16 +1,14 @@
 {
-  "PersonaOne": {
-    "Estado": [
-      "false"
-    ],
-    "NombreMenu": [
-      "Menu 1"
-    ],
-    "Actividad": [
-      "Actividad 1"
-    ],
-    "Icono": [
-      "Icono 1"
-    ]
-  }
+  "Estado": [
+    "false"
+  ],
+  "NombreMenu": [
+    "Menu 1"
+  ],
+  "Actividad": [
+    "Actividad 1"
+  ],
+  "Icono": [
+    "Icono 1"
+  ]
 }
