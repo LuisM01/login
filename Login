@@ -12,19 +12,4 @@
     "Icono": [
       "Icono 1"
     ]
-  },
-  "PersonaTwo": {
-    "Estado": [
-      "true"
-    ],
-    "NombreMenu": [
-      "Menu 2"
-    ],
-    "Actividad": [
-      "Actividad 2"
-    ],
-    "Icono": [
-      "Icono 2"
-    ]
   }
-}
