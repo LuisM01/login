@@ -1,5 +1,6 @@
 {
-  "nombreMenu": "Menu 1",
+  "Estado": "true",
+  "NombreMenu": "Menu 1",
   "Actividad": "Actividad 1",
   "Icono": "Icono 1"
 }
