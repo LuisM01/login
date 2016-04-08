@@ -1,14 +1,30 @@
 {
   "PersonaOne": {
-    "Estado": "false",
-    "NombreMenu": "Menu 1",
-    "Actividad": "Actividad 1",
-    "Icono": "Icono 1"
+    "Estado": [
+      "false"
+    ],
+    "NombreMenu": [
+      "Menu 1"
+    ],
+    "Actividad": [
+      "Actividad 1"
+    ],
+    "Icono": [
+      "Icono 1"
+    ]
   },
   "PersonaTwo": {
-    "Estado": "true",
-    "NombreMenu": "Menu 2",
-    "Actividad": "Actividad 2",
-    "Icono": "Icono 2"
+    "Estado": [
+      "true"
+    ],
+    "NombreMenu": [
+      "Menu 2"
+    ],
+    "Actividad": [
+      "Actividad 2"
+    ],
+    "Icono": [
+      "Icono 2"
+    ]
   }
 }
