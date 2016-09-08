@@ -1,0 +1,16 @@
+{
+  "Persona": [
+    {
+      "Usuario": "user1",
+      "estado": "true",
+    },
+    {
+      "Usuario": "user2",
+      "estado": "true",
+    },
+    {
+      "Usuario": "user3",
+      "estado": "true",
+    }
+  ]
+}
